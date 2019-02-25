@@ -1,0 +1,26 @@
+{
+  "name": "starterhtmlgulpbrowsersync",
+  "version": "1.0.0",
+  "description": "HTML and sass starter with browsersync utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebasala/HtmlBrowsersync.git"
+  },
+  "author": "Sebastian Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebasala/HtmlBrowsersync/issues"
+  },
+  "homepage": "https://github.com/Sebasala/HtmlBrowsersync#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}

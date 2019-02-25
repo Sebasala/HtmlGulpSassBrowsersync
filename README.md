@@ -1,3 +1,11 @@
-# Starter HTML and sass project
+# Starter with HTML, gulp, gulp-sass and Browsersync
 
-This is a simple starter structure and some code to starte a basic HTML with sass project.
+This is a preconfigured starter project to beguin a new project with HTML, gulp, gulp-sass and Browsersync.
+
+## Install
+`npm install`
+
+## Start working
+`gulp`
+
+

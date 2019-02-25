@@ -21,37 +21,30 @@ time, mark, audio, video {
   border: 0;
   font-size: 100%;
   font: inherit;
-  vertical-align: baseline;
-}
+  vertical-align: baseline; }
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-  display: block;
-}
+  display: block; }
 
 body {
-  line-height: 1;
-}
+  line-height: 1; }
 
 ol, ul {
-  list-style: none;
-}
+  list-style: none; }
 
 blockquote, q {
-  quotes: none;
-}
+  quotes: none; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
-  content: "";
-  content: none;
-}
+  content: '';
+  content: none; }
 
 table {
   border-collapse: collapse;
-  border-spacing: 0;
-}
+  border-spacing: 0; }
 
 /* VERTICAL RHYTHM */
 /* Power function to calculate type scale font size */
@@ -71,32 +64,25 @@ table {
 /* LAYOUT */
 /* FONTS */
 body {
-  font-family: "Open Sans", sans-serif;
-}
+  font-family: "Open Sans", sans-serif; }
 
 /* COLORS */
 /* VERTICAL RHYTHM */
 html {
-  font-size: 100%;
-}
+  font-size: 100%; }
 
 body {
   font-size: 1rem;
-  line-height: 1.5rem;
-}
+  line-height: 1.5rem; }
 
 /* TRANSFORMS AND DECORATIONS */
 /* GENERAL */
 * {
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 button {
   font-size: 1rem;
   line-height: 1.5rem;
   padding: 0.75rem 1.5rem;
   border: none;
-  outline: none;
-}
-
-/*# sourceMappingURL=styles.css.map */
+  outline: none; }
